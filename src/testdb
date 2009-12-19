@@ -1,0 +1,266 @@
+
+person(intern, alice).
+person(intern, bob).
+person(intern, carol).
+person(intern, dave).
+person(intern, eve).
+person(intern, charlie).
+person(intern, lucy).
+person(intern, linus).
+person(intern, sally).
+person(intern, marcie).
+person(intern, mark).
+person(intern, jimmy).
+person(intern, alex).
+person(intern, sid).
+group_member(sid, staff).
+group_member(alex, staff).
+group_member(jimmy, staff).
+group_member(mark, staff).
+group_member(marcie, customers).
+group_member(sally, customers).
+group_member(linus, customers).
+group_member(lucy, customers).
+group_member(eve, management).
+group_member(dave, management).
+group_member(carol, management).
+group_member(carol, research).
+group_member(bob, research).
+group_member(alice, research).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 1], [[15, 1, 2006], 2]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 2], [[15, 1, 2006], 3]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 3], [[15, 1, 2006], 4]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 4], [[15, 1, 2006], 5]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 5], [[15, 1, 2006], 6]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 6], [[15, 1, 2006], 7]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 7], [[15, 1, 2006], 8]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 8], [[15, 1, 2006], 9]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 9], [[15, 1, 2006], 10]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 10], [[15, 1, 2006], 11]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 11], [[15, 1, 2006], 12]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 12], [[15, 1, 2006], 13]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 13], [[15, 1, 2006], 14]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 14], [[15, 1, 2006], 15]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 15], [[15, 1, 2006], 16]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [[on_weekend, no_argument]], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[15, 1, 2006], 16], [[15, 1, 2006], 17]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [[on_holiday, no_argument]], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[16, 4, 2006], 0], [[16, 4, 2006], 1]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [[not_on_weekend, no_argument]], [[[15, 1, 2006], 0], [[15, 1, 2006], 1]], [[[16, 1, 2006], 0], [[16, 1, 2006], 1]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 32], [[17, 1, 2006], 36]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 36], [[17, 1, 2006], 40]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 40], [[17, 1, 2006], 44]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 44], [[18, 1, 2006], 0]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[18, 1, 2006], 0], [[18, 1, 2006], 4]]]).
+person(intern, alice).
+person(intern, bob).
+person(intern, carol).
+person(intern, dave).
+person(intern, eve).
+person(intern, charlie).
+person(intern, lucy).
+person(intern, linus).
+person(intern, sally).
+person(intern, marcie).
+person(intern, mark).
+person(intern, jimmy).
+person(intern, alex).
+person(intern, sid).
+group_member(sid, staff).
+group_member(alex, staff).
+group_member(jimmy, staff).
+group_member(mark, staff).
+group_member(marcie, customers).
+group_member(sally, customers).
+group_member(linus, customers).
+group_member(lucy, customers).
+group_member(eve, management).
+group_member(dave, management).
+group_member(carol, management).
+group_member(carol, research).
+group_member(bob, research).
+group_member(alice, research).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 41], [[26, 1, 2006], 42]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 42], [[26, 1, 2006], 43]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 43], [[26, 1, 2006], 44]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 44], [[26, 1, 2006], 45]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 45], [[26, 1, 2006], 46]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 46], [[26, 1, 2006], 47]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 47], [[27, 1, 2006], 0]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 0], [[27, 1, 2006], 1]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 1], [[27, 1, 2006], 2]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 2], [[27, 1, 2006], 3]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 3], [[27, 1, 2006], 4]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 4], [[27, 1, 2006], 5]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 5], [[27, 1, 2006], 6]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 6], [[27, 1, 2006], 7]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 7], [[27, 1, 2006], 8]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [[on_weekend, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[28, 1, 2006], 40], [[28, 1, 2006], 41]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [[on_holiday, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[16, 4, 2006], 40], [[16, 4, 2006], 41]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [[not_on_weekend, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 8], [[27, 1, 2006], 9]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 32], [[17, 1, 2006], 36]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 36], [[17, 1, 2006], 40]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 40], [[17, 1, 2006], 44]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 44], [[18, 1, 2006], 0]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[18, 1, 2006], 0], [[18, 1, 2006], 4]]]).
+person(intern, alice).
+person(intern, bob).
+person(intern, carol).
+person(intern, dave).
+person(intern, eve).
+person(intern, charlie).
+person(intern, lucy).
+person(intern, linus).
+person(intern, sally).
+person(intern, marcie).
+person(intern, mark).
+person(intern, jimmy).
+person(intern, alex).
+person(intern, sid).
+group_member(sid, staff).
+group_member(alex, staff).
+group_member(jimmy, staff).
+group_member(mark, staff).
+group_member(marcie, customers).
+group_member(sally, customers).
+group_member(linus, customers).
+group_member(lucy, customers).
+group_member(eve, management).
+group_member(dave, management).
+group_member(carol, management).
+group_member(carol, research).
+group_member(bob, research).
+group_member(alice, research).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 41], [[26, 1, 2006], 42]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 42], [[26, 1, 2006], 43]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 43], [[26, 1, 2006], 44]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 44], [[26, 1, 2006], 45]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 45], [[26, 1, 2006], 46]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 46], [[26, 1, 2006], 47]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 47], [[27, 1, 2006], 0]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 0], [[27, 1, 2006], 1]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 1], [[27, 1, 2006], 2]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 2], [[27, 1, 2006], 3]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 3], [[27, 1, 2006], 4]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 4], [[27, 1, 2006], 5]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 5], [[27, 1, 2006], 6]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 6], [[27, 1, 2006], 7]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 7], [[27, 1, 2006], 8]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [[on_weekend, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[28, 1, 2006], 40], [[28, 1, 2006], 41]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [[on_holiday, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[16, 4, 2006], 40], [[16, 4, 2006], 41]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [[not_on_weekend, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 8], [[27, 1, 2006], 9]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 32], [[17, 1, 2006], 36]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 36], [[17, 1, 2006], 40]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 40], [[17, 1, 2006], 44]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 44], [[18, 1, 2006], 0]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[18, 1, 2006], 0], [[18, 1, 2006], 4]]]).
+person(intern, alice).
+person(intern, bob).
+person(intern, carol).
+person(intern, dave).
+person(intern, eve).
+person(intern, charlie).
+person(intern, lucy).
+person(intern, linus).
+person(intern, sally).
+person(intern, marcie).
+person(intern, mark).
+person(intern, jimmy).
+person(intern, alex).
+person(intern, sid).
+group_member(sid, staff).
+group_member(alex, staff).
+group_member(jimmy, staff).
+group_member(mark, staff).
+group_member(marcie, customers).
+group_member(sally, customers).
+group_member(linus, customers).
+group_member(lucy, customers).
+group_member(eve, management).
+group_member(dave, management).
+group_member(carol, management).
+group_member(carol, research).
+group_member(bob, research).
+group_member(alice, research).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 41], [[26, 1, 2006], 42]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 42], [[26, 1, 2006], 43]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 43], [[26, 1, 2006], 44]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 44], [[26, 1, 2006], 45]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 45], [[26, 1, 2006], 46]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 46], [[26, 1, 2006], 47]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 47], [[27, 1, 2006], 0]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 0], [[27, 1, 2006], 1]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 1], [[27, 1, 2006], 2]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 2], [[27, 1, 2006], 3]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 3], [[27, 1, 2006], 4]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 4], [[27, 1, 2006], 5]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 5], [[27, 1, 2006], 6]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 6], [[27, 1, 2006], 7]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 7], [[27, 1, 2006], 8]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [[on_weekend, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[28, 1, 2006], 40], [[28, 1, 2006], 41]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [[on_holiday, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[16, 4, 2006], 40], [[16, 4, 2006], 41]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [[not_on_weekend, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 8], [[27, 1, 2006], 9]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 32], [[17, 1, 2006], 36]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 36], [[17, 1, 2006], 40]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 40], [[17, 1, 2006], 44]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 44], [[18, 1, 2006], 0]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[18, 1, 2006], 0], [[18, 1, 2006], 4]]]).
+person(intern, alice).
+person(intern, bob).
+person(intern, carol).
+person(intern, dave).
+person(intern, eve).
+person(intern, charlie).
+person(intern, lucy).
+person(intern, linus).
+person(intern, sally).
+person(intern, marcie).
+person(intern, mark).
+person(intern, jimmy).
+person(intern, alex).
+person(intern, sid).
+group_member(sid, staff).
+group_member(alex, staff).
+group_member(jimmy, staff).
+group_member(mark, staff).
+group_member(marcie, customers).
+group_member(sally, customers).
+group_member(linus, customers).
+group_member(lucy, customers).
+group_member(eve, management).
+group_member(dave, management).
+group_member(carol, management).
+group_member(carol, research).
+group_member(bob, research).
+group_member(alice, research).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 41], [[26, 1, 2006], 42]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 42], [[26, 1, 2006], 43]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 43], [[26, 1, 2006], 44]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 44], [[26, 1, 2006], 45]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 45], [[26, 1, 2006], 46]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 46], [[26, 1, 2006], 47]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[26, 1, 2006], 47], [[27, 1, 2006], 0]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 0], [[27, 1, 2006], 1]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 1], [[27, 1, 2006], 2]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 2], [[27, 1, 2006], 3]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 3], [[27, 1, 2006], 4]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 4], [[27, 1, 2006], 5]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 5], [[27, 1, 2006], 6]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 6], [[27, 1, 2006], 7]]]).
+appointment([[carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy, mark], [], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 7], [[27, 1, 2006], 8]]]).
+appointment([[carol, bob, alice, eve, dave, carol], [[on_weekend, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[28, 1, 2006], 40], [[28, 1, 2006], 41]]]).
+appointment([[carol, bob, alice, marcie, sally, linus, lucy], [[on_holiday, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[16, 4, 2006], 40], [[16, 4, 2006], 41]]]).
+appointment([[carol, bob, alice, sid, alex, jimmy, mark], [[not_on_weekend, no_argument]], [[[26, 1, 2006], 40], [[26, 1, 2006], 41]], [[[27, 1, 2006], 8], [[27, 1, 2006], 9]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 32], [[17, 1, 2006], 36]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 36], [[17, 1, 2006], 40]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 40], [[17, 1, 2006], 44]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[17, 1, 2006], 44], [[18, 1, 2006], 0]]]).
+appointment([[alice, bob, carol], [], [[[17, 1, 2006], 28], [[17, 1, 2006], 32]], [[[18, 1, 2006], 0], [[18, 1, 2006], 4]]]).

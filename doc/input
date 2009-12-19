@@ -1,0 +1,51 @@
+Trying 127.0.0.1...
+Connected to HAL9000.
+Escape character is '^]'.
+=== Multi Organizer Server ===
+#:make intern person alice
+#:make intern person bob
+#:make intern person carol
+#:make intern person dave
+#:make intern person eve
+#:make intern person charlie
+#:make intern person lucy
+#:make intern person linus
+#:make intern person sally
+#:make intern person marcie
+#:make intern person mark
+#:make intern person jimmy
+#:make intern person alex
+#:make intern person sid
+#:add alice bob carol to group research
+#:add carol dave eve to group management
+#:add lucy linus sally marcie to group customers
+#:add mark jimmy alex sid to group staff
+#:make appointment between group research group management group customers group staff as soon as possible
+#:make appointment between group research group management as soon as possible
+#:make appointment between group research group customers as soon as possible
+#:make appointment between group research group staff as soon as possible
+#:make appointment between group research group management as soon as possible
+#:make appointment between group research group management group customers group staff as soon as possible
+#:make appointment between group research group management as soon as possible
+#:make appointment between group research group management as soon as possible
+#:make appointment between group research group customers as soon as possible
+#:make appointment between group research group staff as soon as possible
+#:make appointment between group research group management group customers group staff as soon as possible
+#:make appointment between group research group customers as soon as possible
+#:make appointment between group research group staff as soon as possible
+#:make appointment between group research group customers as soon as possible
+#:make appointment between group research group management group customers group staff as soon as possible
+#:make appointment between group research group management group customers group staff as soon as possible
+#:make appointment between group research group management as soon as possible constrained on a weekend
+#:make appointment between group research group customers as soon as possible constrained on a holiday
+#:make appointment between group research group staff as soon as possible constrained not on a weekend
+#:make appointment between alice bob carol from 17 january 2006 at 14 : 00 till 17 january 2006 at 16 : 00
+#:make appointment between alice bob carol from 17 january 2006 at 14 : 00 till 17 january 2006 at 16 : 00
+#:make appointment between alice bob carol from 17 january 2006 at 14 : 00 till 17 january 2006 at 16 : 00
+#:make appointment between alice bob carol from 17 january 2006 at 14 : 00 till 17 january 2006 at 16 : 00
+#:make appointment between alice bob carol from 17 january 2006 at 14 : 00 till 17 january 2006 at 16 : 00
+#:make appointment between alice bob carol from 17 january 2006 at 14 : 00 till 17 january 2006 at 16 : 00
+#:save database as testdb
+#:stop
+Goodbye!
+

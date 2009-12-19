@@ -1,0 +1,604 @@
+This is pdfeTeX, Version 3.14159-1.10b-2.1 (Web2C 7.4.5) (format=pdflatex 2005.10.16)  15 JAN 2006 00:57
+entering extended mode
+**verslag.tex
+(./verslag.tex{/usr/share/texmf/pdftex/config/pdftex.cfg}
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, catalan, croatian, czech, danish, dutch, finnish, greek, iceland
+ic, irish, italian, latin, magyar, norsk, norsk, portuges, romanian, russian, s
+lovak, slovene, spanish, swedish, turkish, ukrainian, nohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2001/04/21 v1.4e Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/generic/babel/babel.sty
+Package: babel 2001/03/01 v3.7h The Babel package
+
+(/usr/share/texmf/tex/generic/babel/dutch.ldf
+Language: dutch 2001/01/30 v3.8h Dutch support from the babel system
+
+(/usr/share/texmf/tex/generic/babel/babel.def
+File: babel.def 2001/03/01 v3.7h Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+Package babel Info: Making " an active character on input line 113.
+))
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2001/08/31 v1.1 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(/usr/share/texmf/tex/latex/graphics/pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (./verslag.aux)
+\openout1 = `verslag.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(/usr/share/texmf/tex/context/base/supp-pdf.tex
+(/usr/share/texmf/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Missing
+\protectiondepth=\count89
+\scratchcounter=\count90
+\scratchtoks=\toks15
+\scratchdimen=\dimen106
+\scratchskip=\skip43
+\scratchmuskip=\muskip10
+\scratchbox=\box26
+\scratchread=\read1
+\scratchwrite=\write3
+\zeropoint=\dimen107
+\minusone=\count91
+\thousandpoint=\dimen108
+\emptytoks=\toks16
+\nextbox=\box27
+\nextdepth=\dimen109
+\everyline=\toks17
+\!!counta=\count92
+\!!countb=\count93
+\recursecounter=\count94
+)
+loading : Context Support Macros / PDF
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ (./verslag.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write4
+\openout4 = `verslag.toc'.
+
+ [1
+
+{/var/lib/texmf/dvips/config/pdftex.map}]
+Overfull \hbox (10.74619pt too wide) in paragraph at lines 60--60
+ []/cmtt9/#:make appointment between alice bob extern alfred as soon as possibl
+e[] 
+ []
+
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 116.
+
+ (/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
+ [3]
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 19:00
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 19:30
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 20:00
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 20:30
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 21:00
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 21:30
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/#:make appointment between alice dave as soon as possible constrained
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 19:00
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 19:30
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 20:00
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 20:30
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 21:00
+[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 21:30
+[] 
+ []
+
+
+Overfull \hbox (10.74619pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and dave from sunday 8 january 2006 at 19:0
+0[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 173--173
+ []/cmtt9/Appointment between alice and bob from sunday 8 january 2006 at 22:00
+[] 
+ []
+
+[4]
+Overfull \hbox (6.02296pt too wide) in paragraph at lines 227--231
+[]/cmr9/Bij de oor-spron-ke-lij-ke toe-pas-sing van de-ze me-tho-de in de multi
+-organizer
+ []
+
+[5]
+Overfull \hbox (2.06854pt too wide) in paragraph at lines 243--247
+[]/cmr9/Verschillende th-reads ver-te-gen-woor-di-gen ver-schil-len-de ses-sies
+. Dit geeft
+ []
+
+[6]
+Overfull \hbox (0.9445pt too wide) in paragraph at lines 274--277
+/cmr9/Gebruikers kun-nen meer-de-re con-s-traints op-leg-gen voor een zelf-de a
+f-spraak.
+ []
+
+[7]
+Overfull \hbox (29.64597pt too wide) in paragraph at lines 382--382
+ []/cmtt9/#:make appointment between alice bob carol from 17 january 2006 at 14
+ : 00[] 
+ []
+
+
+Overfull \hbox (29.64597pt too wide) in paragraph at lines 382--382
+ []/cmtt9/#:make appointment between alice bob carol from 17 january 2006 at 14
+ : 00[] 
+ []
+
+[8]
+Overfull \hbox (29.64597pt too wide) in paragraph at lines 382--382
+ []/cmtt9/#:make appointment between alice bob carol from 17 january 2006 at 14
+ : 00[] 
+ []
+
+
+Overfull \hbox (29.64597pt too wide) in paragraph at lines 382--382
+ []/cmtt9/#:make appointment between alice bob carol from 17 january 2006 at 14
+ : 00[] 
+ []
+
+
+Overfull \hbox (29.64597pt too wide) in paragraph at lines 382--382
+ []/cmtt9/#:make appointment between alice bob carol from 17 january 2006 at 14
+ : 00[] 
+ []
+
+
+Overfull \hbox (29.64597pt too wide) in paragraph at lines 382--382
+ []/cmtt9/#:make appointment between alice bob carol from 17 january 2006 at 14
+ : 00[] 
+ []
+
+
+Overfull \hbox (48.54575pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave, carol, marcie, sall
+y, linus,[] 
+ []
+
+
+Overfull \hbox (24.92102pt too wide) in paragraph at lines 476--476
+ []/cmtt9/lucy, sid, alex, jimmy and mark from sunday 15 january 2006 at 00:00 
+till[] 
+ []
+
+
+Overfull \hbox (62.72058pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave and carol from sunda
+y 15 january[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 476--476
+ []/cmtt9/2006 at 00:30 till sunday 15 january 2006 at 01:00 with 0 constraints
+[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, marcie, sally, linus and lucy 
+from sunday[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/15 january 2006 at 01:00 till sunday 15 january 2006 at 01:30 with 0 
+constraints[] 
+ []
+
+
+Overfull \hbox (53.27069pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, sid, alex, jimmy and mark from
+ sunday 15[] 
+ []
+
+
+Overfull \hbox (43.8208pt too wide) in paragraph at lines 476--476
+ []/cmtt9/january 2006 at 01:30 till sunday 15 january 2006 at 02:00 with 0 con
+straints[] 
+ []
+
+
+Overfull \hbox (62.72058pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave and carol from sunda
+y 15 january[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 476--476
+ []/cmtt9/2006 at 02:00 till sunday 15 january 2006 at 02:30 with 0 constraints
+[] 
+ []
+
+
+Overfull \hbox (48.54575pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave, carol, marcie, sall
+y, linus,[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/lucy, sid, alex, jimmy and mark from sunday 15 january 2006 at 02:30 
+till sunday[] 
+ []
+
+
+Overfull \hbox (62.72058pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave and carol from sunda
+y 15 january[] 
+ []
+
+
+Overfull \hbox (6.02124pt too wide) in paragraph at lines 476--476
+ []/cmtt9/2006 at 03:00 till sunday 15 january 2006 at 03:30 with 0 constraints
+[] 
+ []
+
+
+Overfull \hbox (86.3453pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave and carol from sunda
+y 15 january 2006[] 
+ []
+
+[9]
+Overfull \hbox (72.17047pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, marcie, sally, linus and lucy 
+from sunday 15[] 
+ []
+
+
+Overfull \hbox (43.8208pt too wide) in paragraph at lines 476--476
+ []/cmtt9/january 2006 at 04:00 till sunday 15 january 2006 at 04:30 with 0 con
+straints[] 
+ []
+
+
+Overfull \hbox (114.69498pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, sid, alex, jimmy and mark from
+ sunday 15 january 2006[] 
+ []
+
+
+Overfull \hbox (76.89542pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave, carol, marcie, sall
+y, linus, lucy,[] 
+ []
+
+
+Overfull \hbox (43.8208pt too wide) in paragraph at lines 476--476
+ []/cmtt9/sid, alex, jimmy and mark from sunday 15 january 2006 at 05:00 till s
+unday 15[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, marcie, sally, linus and lucy 
+from sunday[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/15 january 2006 at 05:30 till sunday 15 january 2006 at 06:00 with 0 
+constraints[] 
+ []
+
+
+Overfull \hbox (39.09586pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, sid, alex, jimmy and mark from
+ sunday[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/15 january 2006 at 06:00 till sunday 15 january 2006 at 06:30 with 0 
+constraints[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, marcie, sally, linus and lucy 
+from sunday[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/15 january 2006 at 06:30 till sunday 15 january 2006 at 07:00 with 0 
+constraints[] 
+ []
+
+
+Overfull \hbox (76.89542pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave, carol, marcie, sall
+y, linus, lucy,[] 
+ []
+
+
+Overfull \hbox (29.64597pt too wide) in paragraph at lines 476--476
+ []/cmtt9/sid, alex, jimmy and mark from sunday 15 january 2006 at 07:00 till s
+unday[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, marcie, sally, linus and lucy 
+from sunday[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/15 january 2006 at 05:30 till sunday 15 january 2006 at 06:00 with 0 
+constraints[] 
+ []
+
+
+Overfull \hbox (53.27069pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, sid, alex, jimmy and mark from
+ sunday 15[] 
+ []
+
+
+Overfull \hbox (43.8208pt too wide) in paragraph at lines 476--476
+ []/cmtt9/january 2006 at 06:00 till sunday 15 january 2006 at 06:30 with 0 con
+straints[] 
+ []
+
+
+Overfull \hbox (24.92102pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, marcie, sally, linus and lucy 
+from[] 
+ []
+
+
+Overfull \hbox (91.07025pt too wide) in paragraph at lines 476--476
+ []/cmtt9/sunday 15 january 2006 at 06:30 till sunday 15 january 2006 at 07:00 
+with 0 constraints[] 
+ []
+
+
+Overfull \hbox (15.47113pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave, carol, marcie, sall
+y,[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/linus, lucy, sid, alex, jimmy and mark from sunday 15 january 2006 at
+ 07:00 till[] 
+ []
+
+
+Overfull \hbox (76.89542pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave, carol, marcie, sall
+y, linus, lucy,[] 
+ []
+
+
+Overfull \hbox (29.64597pt too wide) in paragraph at lines 476--476
+ []/cmtt9/sid, alex, jimmy and mark from sunday 15 january 2006 at 07:30 till s
+unday[] 
+ []
+
+
+Overfull \hbox (86.3453pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, eve, dave and carol from sunda
+y 15 january 2006[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, marcie, sally, linus and lucy 
+from sunday[] 
+ []
+
+
+Overfull \hbox (39.09586pt too wide) in paragraph at lines 476--476
+ []/cmtt9/16 april 2006 at 00:00 till sunday 16 april 2006 at 00:30 with 1 cons
+traints[] 
+ []
+
+
+Overfull \hbox (39.09586pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between carol, bob, alice, sid, alex, jimmy and mark from
+ monday[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/16 january 2006 at 00:00 till monday 16 january 2006 at 00:30 with 1 
+constraints[] 
+ []
+
+
+Overfull \hbox (48.54575pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between alice, bob and carol from tuesday 17 january 2006
+ at 14:00[] 
+ []
+
+
+Overfull \hbox (48.54575pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between alice, bob and carol from tuesday 17 january 2006
+ at 16:00[] 
+ []
+
+
+Overfull \hbox (48.54575pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between alice, bob and carol from tuesday 17 january 2006
+ at 18:00[] 
+ []
+
+
+Overfull \hbox (48.54575pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between alice, bob and carol from tuesday 17 january 2006
+ at 20:00[] 
+ []
+
+
+Overfull \hbox (48.54575pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between alice, bob and carol from tuesday 17 january 2006
+ at 22:00[] 
+ []
+
+
+Overfull \hbox (57.99564pt too wide) in paragraph at lines 476--476
+ []/cmtt9/Appointment between alice, bob and carol from wednesday 18 january 20
+06 at 00:00[] 
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+[]/cmr9/SWI-Prolog 5.6.0 Re-fe-ren-ce Ma-nu-al, J. Wi-ele-ma-ker,
+ []
+
+[11] (./verslag.aux) ) 
+Here is how much of TeX's memory you used:
+ 1234 strings out of 94960
+ 14560 string characters out of 1182469
+ 68123 words of memory out of 1000001
+ 4379 multiletter control sequences out of 10000+50000
+ 9980 words of font info for 35 fonts, out of 500000 for 1000
+ 198 hyphenation exceptions out of 1000
+ 25i,6n,24p,219b,308s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 68 PDF objects out of 300000
+ 0 named destinations out of 131072
+ 0 words of extra memory for PDF output out of 65536
+{/usr/share/texmf/dvips/tetex/f7b6d320.enc}</usr/share/te
+xmf/fonts/type1/bluesky/cm/cmbx10.pfb>{/usr/share/texmf/dvips/tetex/bbad153f.en
+c}</usr/share/texmf/fonts/type1/bluesky/cm/cmsy9.pfb>{/usr/share/texmf/dvips/te
+tex/09fbbfac.enc}</usr/share/texmf/fonts/type1/bluesky/cm/cmtt9.pfb>{/usr/share
+/texmf/dvips/tetex/74afc74c.enc}</usr/share/texmf/fonts/type1/bluesky/cm/cmti9.
+pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsl10.pfb></usr/share/texmf/fonts
+/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb
+></usr/share/texmf/fonts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf/fonts/type
+1/bluesky/cm/cmbx9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr
+/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb>
+Output written on verslag.pdf (11 pages, 107557 bytes).

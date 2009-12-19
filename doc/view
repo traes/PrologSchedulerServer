@@ -1,0 +1,53 @@
+Trying 127.0.0.1...
+Connected to HAL9000.
+Escape character is '^]'.
+=== Multi Organizer Server ===
+#:show intern persons
+alice
+bob
+carol
+dave
+eve
+charlie
+lucy
+linus
+sally
+marcie
+mark
+jimmy
+alex
+sid
+#:show appointments
+Appointment between carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy and mark from sunday 15 january 2006 at 00:00 till sunday 15 january 2006 at 00:30 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave and carol from sunday 15 january 2006 at 00:30 till sunday 15 january 2006 at 01:00 with 0 constraints 
+Appointment between carol, bob, alice, marcie, sally, linus and lucy from sunday 15 january 2006 at 01:00 till sunday 15 january 2006 at 01:30 with 0 constraints 
+Appointment between carol, bob, alice, sid, alex, jimmy and mark from sunday 15 january 2006 at 01:30 till sunday 15 january 2006 at 02:00 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave and carol from sunday 15 january 2006 at 02:00 till sunday 15 january 2006 at 02:30 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy and mark from sunday 15 january 2006 at 02:30 till sunday 15 january 2006 at 03:00 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave and carol from sunday 15 january 2006 at 03:00 till sunday 15 january 2006 at 03:30 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave and carol from sunday 15 january 2006 at 03:30 till sunday 15 january 2006 at 04:00 with 0 constraints 
+Appointment between carol, bob, alice, marcie, sally, linus and lucy from sunday 15 january 2006 at 04:00 till sunday 15 january 2006 at 04:30 with 0 constraints 
+Appointment between carol, bob, alice, sid, alex, jimmy and mark from sunday 15 january 2006 at 04:30 till sunday 15 january 2006 at 05:00 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy and mark from sunday 15 january 2006 at 05:00 till sunday 15 january 2006 at 05:30 with 0 constraints 
+Appointment between carol, bob, alice, marcie, sally, linus and lucy from sunday 15 january 2006 at 05:30 till sunday 15 january 2006 at 06:00 with 0 constraints 
+Appointment between carol, bob, alice, sid, alex, jimmy and mark from sunday 15 january 2006 at 06:00 till sunday 15 january 2006 at 06:30 with 0 constraints 
+Appointment between carol, bob, alice, marcie, sally, linus and lucy from sunday 15 january 2006 at 06:30 till sunday 15 january 2006 at 07:00 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy and mark from sunday 15 january 2006 at 07:00 till sunday 15 january 2006 at 07:30 with 0 constraints 
+Appointment between carol, bob, alice, marcie, sally, linus and lucy from sunday 15 january 2006 at 05:30 till sunday 15 january 2006 at 06:00 with 0 constraints 
+Appointment between carol, bob, alice, sid, alex, jimmy and mark from sunday 15 january 2006 at 06:00 till sunday 15 january 2006 at 06:30 with 0 constraints 
+Appointment between carol, bob, alice, marcie, sally, linus and lucy from sunday 15 january 2006 at 06:30 till sunday 15 january 2006 at 07:00 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy and mark from sunday 15 january 2006 at 07:00 till sunday 15 january 2006 at 07:30 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave, carol, marcie, sally, linus, lucy, sid, alex, jimmy and mark from sunday 15 january 2006 at 07:30 till sunday 15 january 2006 at 08:00 with 0 constraints 
+Appointment between carol, bob, alice, eve, dave and carol from sunday 15 january 2006 at 08:00 till sunday 15 january 2006 at 08:30 with 1 constraints 
+Appointment between carol, bob, alice, marcie, sally, linus and lucy from sunday 16 april 2006 at 00:00 till sunday 16 april 2006 at 00:30 with 1 constraints 
+Appointment between carol, bob, alice, sid, alex, jimmy and mark from monday 16 january 2006 at 00:00 till monday 16 january 2006 at 00:30 with 1 constraints 
+Appointment between alice, bob and carol from tuesday 17 january 2006 at 14:00 till tuesday 17 january 2006 at 16:00 with 0 constraints 
+Appointment between alice, bob and carol from tuesday 17 january 2006 at 16:00 till tuesday 17 january 2006 at 18:00 with 0 constraints 
+Appointment between alice, bob and carol from tuesday 17 january 2006 at 18:00 till tuesday 17 january 2006 at 20:00 with 0 constraints 
+Appointment between alice, bob and carol from tuesday 17 january 2006 at 20:00 till tuesday 17 january 2006 at 22:00 with 0 constraints 
+Appointment between alice, bob and carol from tuesday 17 january 2006 at 22:00 till wednesday 18 january 2006 at 00:00 with 0 constraints 
+Appointment between alice, bob and carol from wednesday 18 january 2006 at 00:00 till wednesday 18 january 2006 at 02:00 with 0 constraints 
+#:stop      
+Goodbye!
+Connection closed by foreign host.
+

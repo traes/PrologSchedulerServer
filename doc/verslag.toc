@@ -1,0 +1,23 @@
+\select@language {dutch}
+\contentsline {section}{\numberline {1}Inleiding}{1}
+\contentsline {section}{\numberline {2}Gebruik}{2}
+\contentsline {subsection}{\numberline {2.1}Starten}{2}
+\contentsline {subsection}{\numberline {2.2}Personen}{2}
+\contentsline {subsection}{\numberline {2.3}Groepen}{2}
+\contentsline {subsection}{\numberline {2.4}Tijd}{3}
+\contentsline {subsection}{\numberline {2.5}Voorkeuren}{3}
+\contentsline {subsection}{\numberline {2.6}Reschedulen}{3}
+\contentsline {subsection}{\numberline {2.7}Database}{4}
+\contentsline {subsection}{\numberline {2.8}Testen}{4}
+\contentsline {section}{\numberline {3}Implementatie}{5}
+\contentsline {subsection}{\numberline {3.1}Bestanden}{5}
+\contentsline {subsection}{\numberline {3.2}Multithreading}{5}
+\contentsline {subsubsection}{\numberline {3.2.1}Synchronisatie}{5}
+\contentsline {subsubsection}{\numberline {3.2.2}Communicatie}{6}
+\contentsline {subsection}{\numberline {3.3}Human Language Interface}{6}
+\contentsline {subsection}{\numberline {3.4}Afspraken}{6}
+\contentsline {subsection}{\numberline {3.5}Scheduler}{7}
+\contentsline {subsubsection}{\numberline {3.5.1}Constraint conflicten}{7}
+\contentsline {subsubsection}{\numberline {3.5.2}Constraint schendingen}{7}
+\contentsline {section}{\numberline {4}Besluit}{7}
+\contentsline {section}{\numberline {A}Voorbeeld}{7}

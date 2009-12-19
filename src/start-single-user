@@ -1,0 +1,3 @@
+#!/bin/sh
+clear
+pl -s project.pl -g single_user
